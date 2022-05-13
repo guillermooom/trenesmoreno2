@@ -115,6 +115,9 @@ ul li >a:hover{
 		width:95%;
 	}
 }
+h3{
+	text-align: center;
+}
 .top h3, p{
 	line-height:35px;
 }
